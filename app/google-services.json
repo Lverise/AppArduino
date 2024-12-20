@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053765077083",
+    "project_id": "arduino-android-f635a",
+    "storage_bucket": "arduino-android-f635a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053765077083:android:801e5f238c4abe49b4977e",
+        "android_client_info": {
+          "package_name": "com.example.apparduino"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDQMskpx0w-nz2vJcScZeoSVUdSsHvr2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
